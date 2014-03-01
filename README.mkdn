@@ -10,7 +10,7 @@ mkdir hk
 cd hk
 From your hk directory, execute the following to pull all source code from github:
 
-repo init -u https://github.com/Hellybean/android.git -b cm-11.0
+repo init -u https://github.com/dave71670/hkandroid.git -b cm-11.0
 ```    
 
 
